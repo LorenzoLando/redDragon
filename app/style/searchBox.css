@@ -33,6 +33,15 @@
         caret-color:red;
         transition: width 0.4s linear;
         }
+        /*design mobile for searchbar on click */
+        @media (max-device-width: 812px) { 
+            .searchbar:hover > .search_input{
+                width: 50%;
+                transition: width 0.4s linear;
+            }
+        } 
+
+
     
         .searchbar:hover > .search_icon{
         background: white;
