@@ -1,6 +1,3 @@
-#navbar--transparent {
-    font-size: 150px;
-    color: red;
+.navbar.navbar-expand-lg.navbar-light.bg-light.navbar--transparent{
+    background-color: aquamarine !important;
 }
-
-
