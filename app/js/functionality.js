@@ -1,3 +1,4 @@
+
 //retrive the info from the search box
 let searchBox = document.querySelector('#main-search');
 let ingredient;
@@ -8,5 +9,6 @@ searchBox.addEventListener('keypress', function(event) {
          console.log(ingredient);
     }
 });
+
 
 
