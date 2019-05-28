@@ -6,10 +6,23 @@
         padding: 0;
         background: #e74c3c !important;
         }
-    
+
+
+        .randomButton {
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 2px;
+            height: 60px;
+        }
+
+        .randomButton__button{
+          background-color: #353b48 !important;
+        } 
+
+       
         .searchbar{
-        margin-bottom: auto;
-        margin-top: auto;
+        margin-left: auto;
+        margin-right: auto;
         height: 60px;
         background-color: #353b48;
         border-radius: 30px;
@@ -58,3 +71,6 @@
         border-radius: 50%;
         color:white;
         }
+
+
+       
